@@ -74,7 +74,7 @@ Det er helt OK at starte simpelt og bygge videre. Tænk over hvilke delproblemer
 | Arbejde med spørgsmålene | De tre arrays i `site.js` — brug array-index til at hente et objekt |
 | Blande spørgsmål fra alle kategorier | Spread-syntax til at slå arrays sammen til ét |
 | Træk et tilfældigt spørgsmål fra et array | `Math.random()` giver et tilfældigt tal mellem 0 og 1 — kombinér med `Math.floor()` og arrayets længde for at få et gyldigt index |
-| Undgå at det samme spørgsmål vises to gange | Hold styr på hvilke index der er brugt, eller fjern brugte elementer fra arrayet |
+| Undgå at det samme spørgsmål vises to gange | Hold styr på hvilke index der er brugt |
 |Find et HTML-element | `getElementById`, `querySelector` eller `querySelectorAll` |
 | Vis spørgsmål og svar i modalen | `innerHTML` eller `innerText` til at skrive indhold ind i et element |
 | Åbne og lukke modalen | `classList.toggle` — sammen med en CSS-klasse der skjuler elementet |
